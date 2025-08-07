@@ -1,61 +1,79 @@
-<h1 align="center">Hey there 👋, I'm Ujwal</h1>
-<h3 align="center">Web Developer | Python Programmer | React Enthusiast | Data Viz Explorer</h3>
+<h1 align="center">Hi, I'm Ujwal 👋</h1>
+<h3 align="center">Frontend Engineer | React & TypeScript Specialist | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%2F+TypeScript+Lover;Python+and+Power+BI+Explorer;Always+learning+something+new+🚀" />
+  <a href="https://ujwal-l.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-ujwal--l.netlify.app-black?style=for-the-badge" />
+  </a>
+  <a href="mailto:ujwal565@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Email-ujwal565@gmail.com-black?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 Philosophy
 
-- 🔭 I’m currently working with **React + TypeScript + Ant Design**
-- 🌱 Learning **Framer Motion** for smoother UI animations
-- 💼 Exploring **Node.js** and **PostgreSQL** for scalable backend systems
-- 📊 I also work with **Power BI** for building business dashboards
-- 💬 Ask me about anything **frontend**, **TypeScript**, or **data visualization**
-- 💞️ Open to collaborations on **React**, **Node**, **Python**, and **dashboarding projects**
-- 🔗 Check out my **portfolio**: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
-- 📫 Reach me at: **ujwal565@gmail.com**
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+
+I care deeply about building elegant UIs with performant, scalable code. My work bridges visual design with functional logic — built with clean architecture and a touch of animation.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 What I Do
 
-#### 💻 Languages & Frameworks
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Framer Motion](https://img.shields.io/badge/-Framer--Motion-000000?style=flat&logo=framer)
-![Ant Design](https://img.shields.io/badge/-Ant--Design-0170FE?style=flat&logo=ant-design)
-
-#### 🛠️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+- 🎨 Build elegant UIs using **React**, **TypeScript**, and **Ant Design**
+- ⚡ Create smooth user experiences with **Framer Motion**
+- 🧩 Develop backend systems with **Node.js** + **PostgreSQL/MySQL**
+- 📊 Design business dashboards in **Power BI**
+- 🐍 Automate and script using **Python**
+- 📦 Version control with **Git**, crafted inside **VS Code**
 
 ---
 
-### 📊 GitHub Stats
+### 🔧 Tech Stack
+
+#### ✨ Frontend
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000000?style=flat&logo=ant-design)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+
+#### 🛠 Backend & DB
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+#### 🧰 Tools
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi)
+
+---
+
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Ujwal-l&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Ujwal-l&theme=graywhite&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🤝 Let's Collaborate
 
-[![Email](https://img.shields.io/badge/Gmail-ujwal565@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ujwal565@gmail.com)  
-🌍 **Portfolio**: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
+I'm always looking for opportunities to build or contribute to:
+- ⚛️ **React/TypeScript frontends**
+- 🧠 **Data-driven dashboards**
+- 📦 **End-to-end full-stack apps**
+
+Feel free to [reach out](mailto:ujwal565@gmail.com) or check out my [portfolio](https://ujwal-l.netlify.app/)!
 
 ---
 
