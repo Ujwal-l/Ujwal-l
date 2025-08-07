@@ -1,78 +1,70 @@
 ```md
-# 👋 Hi, I’m @Ujwal-l
+<h1 align="center">Hi there 👋, I'm Ujwal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%2F+Node+%2F+Python+%2F+SQL+Enthusiast;Loves+building+modern+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-I'm a passionate Full Stack Developer with a keen eye for design and detail. I love building beautiful, performant web apps using modern technologies and tools.
-
-## 🚀 About Me
-
-- 🌱 Currently learning **ReactJS** and leveling up with **TypeScript** & **Framer Motion**
-- 💡 Interested in **Web Development**, **Python Programming**, and **Data Visualization**
-- 💞️ Open to collaborate on **frontend**, **backend**, and **BI dashboard** projects
-- 📫 Reach me at: **ujwal565@gmail.com**
-- 🌐 Portfolio: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+<p align="center">
+  <a href="https://ujwal-l.netlify.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My-Portfolio-ff69b4?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Featured Projects
+### 🧠 About Me
 
-### 🌐 [Personal Portfolio](https://ujwal-l.netlify.app/)
-Minimal, responsive portfolio built with React, TypeScript, and Framer Motion — designed with clean animations and a modern Apple-style UI.
-
-> 🧑‍💻 **Tech Used:** React · TypeScript · Framer Motion · Ant Design · Vite
-
-[![Live Demo](https://img.shields.io/badge/Demo-Visit-blue?style=flat-square&logo=vercel)](https://ujwal-l.netlify.app/)
-[![Code](https://img.shields.io/badge/Source-Code-informational?style=flat-square&logo=github)](https://github.com/Ujwal-l/ujwal-portfolio)
+- 🌱 Currently learning **React.js & TypeScript**  
+- 💼 Working on **Frontend and Backend Web Applications**  
+- 🛠️ Tech Stack: `React` `TypeScript` `Node.js` `PostgreSQL` `MySQL` `Python` `HTML` `CSS` `Ant Design` `Git` `VSCode` `Power BI`
+- 🌐 My personal website: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
+- 📫 Contact me: **ujwal565@gmail.com**
 
 ---
 
-### 📊 BI Dashboard Builder
-Real-time dashboards enabling data-driven decisions with Power BI for stakeholders.
+### ⚡ Hobbies & Goals
 
-> 📈 **Highlights:** 16 Dashboards · Real-Time KPIs · Multi-Source Integration  
-> 🛠 **Tech Used:** Power BI · SQL · DAX · Python
-
-📁 Snapshots available upon request.
+- 🎨 Passionate about minimalist UI/UX designs
+- 🎬 Love watching sci-fi and coding videos
+- 🎯 Goal: Join a top-tier tech team & contribute to open source
 
 ---
 
-### 💸 Expense Tracker App
-Track income, expenses, and get visual insights on your spending habits.
+### 🚀 Skills
 
-> ⚙️ **Tech Used:** React · Node.js · TypeScript · PostgreSQL
-
-[![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ujwal-l/expense-tracker)
-
----
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujwal-l&theme=tokyonight" width="48%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,mysql,python,html,css,antdesign,git,vscode,powerbi" />
+</p>
 
 ---
 
-## 📬 Let’s Connect
+### 🔥 GitHub Stats
 
-I'm open to collaboration, freelance work, or just chatting about tech & design.  
-📫 Email me: **ujwal565@gmail.com**  
-🔗 Portfolio: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-l&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+- 🚧 *Coming Soon: Detailed list of portfolio projects with demos and repos*
+
+---
+
+### 🎞️ Animation Zone
+
+- ⚙️ Adding smooth transitions with Framer Motion
+- 🔄 Lottie animations or custom GIFs coming soon!
+
+<!-- Example Lottie or GIF placeholder -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+> “Simplicity is the ultimate sophistication.” – *Leonardo da Vinci*  
+> *Crafting elegant code & modern UI — one project at a time.*
 ```
-
-<!-- Optional: Embed some GIF animations later for added flair -->
