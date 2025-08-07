@@ -1,70 +1,65 @@
-```md
-<h1 align="center">Hi there 👋, I'm Ujwal</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%2F+Node+%2F+Python+%2F+SQL+Enthusiast;Loves+building+modern+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there 👋, I'm Ujwal</h1>
+<h3 align="center">Web Developer | Python Programmer | React  | Data Viz Explorer</h3>
 
 <p align="center">
-  <a href="https://ujwal-l.netlify.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My-Portfolio-ff69b4?style=for-the-badge"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%2F+TypeScript+Lover;Python+and+Power+BI+Explorer;Always+learning+something+new+🚀" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🌱 Currently learning **React.js & TypeScript**  
-- 💼 Working on **Frontend and Backend Web Applications**  
-- 🛠️ Tech Stack: `React` `TypeScript` `Node.js` `PostgreSQL` `MySQL` `Python` `HTML` `CSS` `Ant Design` `Git` `VSCode` `Power BI`
-- 🌐 My personal website: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
-- 📫 Contact me: **ujwal565@gmail.com**
-
----
-
-### ⚡ Hobbies & Goals
-
-- 🎨 Passionate about minimalist UI/UX designs
-- 🎬 Love watching sci-fi and coding videos
-- 🎯 Goal: Join a top-tier tech team & contribute to open source
+- 🔭 I’m currently working with **React + TypeScript + Ant Design**
+- 🌱 Learning **Framer Motion** for smoother UI animations
+- 💼 Exploring **Node.js** and **PostgreSQL** for scalable backend systems
+- 📊 I also work with **Power BI** for building business dashboards
+- 💬 Ask me about anything **frontend**, **TypeScript**, or **data visualization**
+- 💞️ Open to collaborations on **React**, **Node**, **Python**, and **dashboarding projects**
+- 🔗 Check out my **portfolio**: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
+- 📫 Reach me at: **ujwal565@gmail.com**
 
 ---
 
-### 🚀 Skills
+### 🧰 Tech Stack & Tools
+
+#### 💻 Languages & Frameworks
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-000000?style=flat&logo=framer)
+![Ant Design](https://img.shields.io/badge/-Ant--Design-0170FE?style=flat&logo=ant-design)
+
+#### 🛠️ Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,mysql,python,html,css,antdesign,git,vscode,powerbi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Ujwal-l&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-l&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-l&layout=compact&theme=radical" height="165"/>
-</p>
+[![Email](https://img.shields.io/badge/Gmail-ujwal565@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ujwal565@gmail.com)  
+🌍 **Portfolio**: [ujwal-l.netlify.app](https://ujwal-l.netlify.app/)
 
 ---
 
-### 🧩 Featured Projects
-
-- 🚧 *Coming Soon: Detailed list of portfolio projects with demos and repos*
-
----
-
-### 🎞️ Animation Zone
-
-- ⚙️ Adding smooth transitions with Framer Motion
-- 🔄 Lottie animations or custom GIFs coming soon!
-
-<!-- Example Lottie or GIF placeholder -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
----
-
-> “Simplicity is the ultimate sophistication.” – *Leonardo da Vinci*  
-> *Crafting elegant code & modern UI — one project at a time.*
-```
+<!---
+Ujwal-l/Ujwal-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
